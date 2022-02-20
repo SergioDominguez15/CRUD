@@ -1,0 +1,124 @@
+body {
+    background-image:url(imagenes/fondo1.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+#titulo {
+    font-size: 4em;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5%;
+    background-color: #171b21;
+}
+
+th {
+    font-size: 1.5em;
+    
+    border-radius: 5%;
+}
+
+#apuntar {
+    text-align: center;
+    margin-top: 2%;
+    margin-right: 40%;
+    font-size: 1.5em;
+}
+
+#texto {
+    margin-left: 10%;
+    position: relative;
+    margin-top: 1%;
+}
+
+#nuevoCliente {
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+input {
+    border-radius: 5%;
+}
+
+#infoAct {
+    position: absolute;
+    margin-left: 75%;
+    background-color: #0b2349;
+    padding: 1%;
+    font-size: 1.1em;
+    border: 1px black solid;
+    border-radius: 5%;
+    top: 5%;
+    color: white;
+}
+
+#infoActVolver {
+    position: absolute;
+    background-color: #0b2349;
+    padding: 1%;
+    font-size: 1.1em;
+    border: 1px black solid;
+    border-radius: 5%;
+    top: 50%;
+    color: white;
+}
+
+#modificarBoton {
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 20%;
+    
+}
+
+#eliminarBoton {
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    border-radius: 20%;
+    
+}
+
+#Volver {
+    position: absolute;
+    background-color: #0b2349;
+    padding: 1%;
+    font-size: 1.1em;
+    border: 1px black solid;
+    border-radius: 5%;
+    top: 10%;
+    color: white;
+}
+
+#cancelar {
+    position: absolute;
+    background-color: #0b2349;
+    padding: 1%;
+    font-size: 1.1em;
+    border: 1px black solid;
+    border-radius: 5%;
+    top: 60%;
+    color: white;
+}
+
+#pregunta {
+    width: 50%;
+    float: left;
+}
+
+#coche {
+    width: 42%;
+    float: right;
+    margin-right: 8%;
+    
+}
