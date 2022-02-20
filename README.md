@@ -12,4 +12,6 @@ Si le das a modificar se abrirá una página donde podrás modificar los datos d
 
 <img src= "https://github.com/SergioDominguez15/CRUD/blob/fc04702c1cfce3caf2375b01fa3d882a1c72122f/Capturas%20Crud/Captura%202.jpg">
 
+Y si le das a Eliminar eliminarás al cliente.
+
 
