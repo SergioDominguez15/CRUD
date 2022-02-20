@@ -6,8 +6,8 @@ Crud hecho en Java con base de datos MySQL para administrar una Autoescuela. Est
 
 Si le das a modificar se abrirá una página donde podrás modificar los datos del cliente elegido.
 
-<img src= "https://github.com/SergioDominguez15/CRUD/blob/f2a337eb698fd75078bc4fc7785df38ba55d3cc3/Capturas%20Crud/Captura%202.jpg">
+<img src= "https://github.com/SergioDominguez15/CRUD/blob/fc04702c1cfce3caf2375b01fa3d882a1c72122f/Capturas%20Crud/Captura%202.jpg">
 
 Si le das a Información sobre el carnet podrás ver la información sobre los carnets disponibles, incluyendo un botón para volver a la pagina principal.
 
-<img src= "https://github.com/SergioDominguez15/CRUD/blob/3c3d739c68721094bbc47ea5c8abd3f79442d309/Capturas%20Crud/Captura%203.jpg">
+<img src= "https://github.com/SergioDominguez15/CRUD/blob/fc04702c1cfce3caf2375b01fa3d882a1c72122f/Capturas%20Crud/Captura%203.jpg">
