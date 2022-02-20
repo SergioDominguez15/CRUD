@@ -122,3 +122,13 @@ input {
     margin-right: 8%;
     
 }
+#cambias {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5%;
+    background-color: #171b21;
+}
+
+#contenedor {
+
+}

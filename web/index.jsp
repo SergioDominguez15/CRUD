@@ -19,7 +19,7 @@
     </head>
     <body>
         <div id="titulo">AUTOESCUELA</div>
-        <a href="infoActividades.jsp"><div id="infoAct">Información de actividades disponibles</div></a>
+        <a href="infoActividades.jsp"><div id="infoAct">Información sobre los carnet</div></a>
         <%
           Class.forName("com.mysql.jdbc.Driver");
           Connection conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/autoescuela", "root", "");
