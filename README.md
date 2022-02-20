@@ -8,6 +8,6 @@ Si le das a modificar se abrirá una página donde podrás modificar los datos d
 
 <img src= "https://github.com/SergioDominguez15/CRUD/blob/3c3d739c68721094bbc47ea5c8abd3f79442d309/Capturas%20Crud/Captura%202.jpg">
 
-Si le das a Información sobre el carnet podrás ver la información sobre los carnets disponibles
+Si le das a Información sobre el carnet podrás ver la información sobre los carnets disponibles, incluyendo un botón para volver a la pagina principal.
 
 <img src= "https://github.com/SergioDominguez15/CRUD/blob/3c3d739c68721094bbc47ea5c8abd3f79442d309/Capturas%20Crud/Captura%203.jpg">
