@@ -1,6 +1,6 @@
 # CRUD Sergio Dominguez Gómez
 
-Crud hecho en Java con base de datos MySQL para administrar una Autoescuela. Este crud dispone de diversas funcionalidades: En la página principal puedes ver la lista de los clientes apuntados, agregar un cliente nuevo a su lista y ver las carnet disponibles junto con información sobre estos.
+Crud hecho en Java con base de datos MySQL para administrar una Autoescuela. Este crud dispone de diversas funcionalidades: En la página principal puedes ver la lista de los clientes apuntados, agregar un cliente nuevo a su lista y ver los carnet disponibles junto con información sobre estos.
 
 <img src= "https://github.com/SergioDominguez15/CRUD/blob/e92832849b72619726241ca50f82729d7a4051e6/Capturas%20Crud/Captura%201.jpg">
 
