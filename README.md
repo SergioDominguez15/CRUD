@@ -14,11 +14,11 @@ Si le das a modificar se abrirá una página donde podrás modificar los datos d
 
 Si intentas añadir un cliente con el mismo codigo de cliente te va a salir la siguiente ventana advertiendote.  Con un botón que te hace volver a la pagina principal.
 
-<img src= "https://github.com/SergioDominguez15/CRUD/blob/e92832849b72619726241ca50f82729d7a4051e6/Capturas%20Crud/Captura%204.jpg">
+<img src= "https://github.com/SergioDominguez15/CRUD/blob/2fd191df042bc6d565563585bcb819eb49758254/Capturas%20Crud/Captura%204.jpg">
 
 Cuando añades un cliente correctamente te aparece la siguiente página. Con un botón para volver a la pagina principal.
 
-<img src="https://github.com/SergioDominguez15/CRUD/blob/e92832849b72619726241ca50f82729d7a4051e6/Capturas%20Crud/Captura%205.jpg">
+<img src="https://github.com/SergioDominguez15/CRUD/blob/2fd191df042bc6d565563585bcb819eb49758254/Capturas%20Crud/Captura%205.jpg">
 
 
 Y si le das a Eliminar eliminarás al cliente.
