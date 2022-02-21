@@ -65,10 +65,11 @@
         %>
     </table>
     <br>
-    <div id="contenedor">
-    <div id="apuntar">¿Quieres apuntarte?</div>
+    <div>
+
                     <img id="coche" src="imagenes/coche.jpg" alt="alt"/>
     <form id="pregunta" method="get" action="nuevoSocio.jsp">
+            <div id="apuntar">¿Quieres apuntarte?</div>
         <div id="texto">Introduce tu código de identificación deseado
             <input type="number" name="codigo" size="10" required><br></div>
         <div id="texto">Introduce tu nombre
