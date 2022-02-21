@@ -10,7 +10,7 @@ Si le das a Información sobre el carnet podrás ver la información sobre los c
 
 Si le das a modificar se abrirá una página donde podrás modificar los datos del cliente elegido.
 
-<img src= "https://github.com/SergioDominguez15/CRUD/blob/fc04702c1cfce3caf2375b01fa3d882a1c72122f/Capturas%20Crud/Captura%202.jpg">
+<img src= "https://github.com/SergioDominguez15/CRUD/blob/2566909545b2cedf8514414ebeccf6cab8629eab/Capturas%20Crud/Captura%203.jpg">
 
 Y si le das a Eliminar eliminarás al cliente.
 
