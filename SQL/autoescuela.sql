@@ -79,11 +79,11 @@ CREATE TABLE `cliente` (
 
 INSERT INTO `cliente` (`CodCli`, `NomCli`, `ApeCli`, `FechNac`) VALUES
 (1, 'Sergio', 'Dominguez Gomez', '1996-01-11'),
-(22, 'Marcos', 'Fernández Nadales', '1999-05-07'),
-(342, 'Diego', 'Rodriguez Barcos', '1999-01-01'),
-(343, 'Alberto', 'Parra Toval', '1999-01-01'),
-(1233, 'Jose Antonio', 'Benitez Ruiz', '1999-05-07'),
-(3245, 'Alvaro', 'Linero Fernnandez', '1999-01-01');
+(2, 'Marcos', 'Fernández Nadales', '1999-05-07'),
+(3, 'Diego', 'Rodriguez Barcos', '1999-01-01'),
+(4, 'Alberto', 'Parra Toval', '1999-01-01'),
+(5, 'Jose Antonio', 'Benitez Ruiz', '1999-05-07'),
+(6, 'Alvaro', 'Linero Fernnandez', '1999-01-01');
 
 --
 -- Índices para tablas volcadas
