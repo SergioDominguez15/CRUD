@@ -13,7 +13,7 @@
     </head>
     <body>
          <% request.setCharacterEncoding("UTF-8"); %>
-    <div id="cambias">
+    <div>
       <br><br>
         <div>Modificación de socio</div>
           <form method="get" action="guardarSocioModificado.jsp">
@@ -25,7 +25,7 @@
             <input type="text" name="apellidos" size="50" value="<%= request.getParameter("apellido") %>"><br></div>
         <div id="texto">Fecha de nacimiento
             <input type="text" name="fechNac" size="5" value="<%= request.getParameter("fechnac") %>"><br></div>
-        <div id="texto">Código del carnet al que quieres apuntarte
+        <div id="texto">Código de la actividad a la que quieres apuntarte
             <input type="text" name="codiAct" size="20" value="<%= request.getParameter("codigoAct") %>"><br></div>
             <a href="index.jsp"><div id="cancelar">Cancelar</div></a>
         <button type="submit" value="Enviar" id="nuevoCliente">Enviar</button>          

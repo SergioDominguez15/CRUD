@@ -16,7 +16,7 @@
         <link rel="shortcut icon" type="image/x-icon" href="imagenes/icoauto.png">
         <link rel="stylesheet" type="text/css" href="estilos.css">
   </head>
-  <body id="borde">
+  <body>
     <%
       Class.forName("com.mysql.jdbc.Driver");
       Connection conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/autoescuela","root", "");

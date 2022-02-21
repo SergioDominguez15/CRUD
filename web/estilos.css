@@ -112,28 +112,13 @@ input {
 }
 
 #pregunta {
-    width: 48%;
+    width: 50%;
     float: left;
-    border: 1px solid black;
-    border-radius: 5%;
-    background-color: #171b21;
-    margin-left: 5%
 }
 
 #coche {
-    width: 40%;
+    width: 42%;
     float: right;
-    margin-right: 5%;
+    margin-right: 8%;
     
-}
-#cambias {
-    margin: 0 auto;
-    border: 1px solid black;
-    border-radius: 5%;
-    background-color: #171b21;
-}
-
-#borde {
-    border-radius: 5%;
-    background-color: #171b21;
 }
