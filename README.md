@@ -23,4 +23,4 @@ Cuando añades un cliente correctamente te aparece la siguiente página. Con un 
 
 Y si le das a Eliminar eliminarás al cliente.
 
-
+<img src="https://github.com/SergioDominguez15/CRUD/blob/67617aa560ef3b646188ae5632d4615ac28ad6a0/Capturas%20Crud/Captura%201.jpg">
