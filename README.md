@@ -1,7 +1,7 @@
 # CRUD Autoescuela - Sergio Dominguez Gómez
 
 # VIDEO YOUTUBE EXPLICATIVO :film_strip:
-[![Watch the video](https://youtu.be/KJmyOHkWw8U)
+[![Link del video](https://youtu.be/KJmyOHkWw8U)
 
 Crud hecho en Java con base de datos MySQL para administrar una Autoescuela. Este crud dispone de diversas funcionalidades: En la página principal puedes ver la lista de los clientes apuntados, podrás agregar un cliente nuevo a su lista y ver los carnet disponibles junto con información sobre estos.
 
